@@ -1,0 +1,216 @@
+.img1{
+    width: 100%;
+    height: 550px;
+}
+
+.cont1{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.indice{
+    position: absolute;
+    margin-top: 400px;
+
+}
+
+.cont2{
+    position: absolute;
+}
+
+li{
+    list-style-type: none;
+    display: inline-flex;
+    justify-content: space-around;
+    padding: 75px;
+}
+
+a{
+    color: black;
+}
+
+footer{
+    background-color: gainsboro;
+    text-align: center;
+    margin-top: 15%;
+    padding: 5%;
+}
+
+.contacto{
+    margin-left: 80%;
+}
+
+.cont3{
+    margin-top: 2.5%;
+    margin-left: 35px;
+    margin-right: 35px;
+    padding: 2.5%;
+    border-left: 2px solid black;
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.formulario{
+    margin: 2.5%;
+}
+
+.envia{
+    margin-top: 2.5%;
+    margin-left: 625px;
+}
+
+.img2{
+    width: 100px;
+}
+.cont4{
+    position: absolute;
+    margin-right: 1250px;
+    margin-top: 50px;
+}
+
+.resultado{
+    color: green;
+    font-weight: bold;
+    margin-left: 540px;
+}
+
+.cont5{
+    margin-top: 2.5%;
+    margin-left: 35px;
+    margin-right: 35px;
+    padding: 2.5%;
+}
+
+.text1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+.cont6{
+    display: flex;
+}
+
+.cont7{
+    margin-left: 5%;
+}
+
+h2{
+    font-size: 2em;
+}
+
+.titulo{
+    margin-bottom: 0.5%;
+}
+
+.img3{
+    width: 500px;
+}
+
+.cont8{
+    background-color: gainsboro;
+    margin-top: 2.5%;
+    padding: 2.5%;
+    width: 100%;
+}
+
+.titulo2{
+    margin-bottom: 1.5%;
+    text-align: center;
+}
+
+.cont9{
+    margin-left: 19%;
+    margin-top: 3%;
+    padding: 2%;
+}
+
+.img4{
+    width: 650px;
+    height: 450px;
+    justify-content: center;
+}
+
+.nombreImagenes{
+    display: flex;
+}
+
+.nombreCoche{
+    position: absolute;
+    background-color: rgb(68, 18, 18);
+    width: 650px;
+    margin-top: 450px;
+    color: white;
+}
+
+.text2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.text3{
+    font-weight: bold;
+}
+
+.cont10{
+    position: absolute;
+    margin-left: 50%;
+    margin-top: -575px;
+}
+
+.text4{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+.cont11{
+    margin-top: 2.5%;
+    margin-left: 35px;
+    margin-right: 35px;
+    padding: 2.5%;
+}
+
+h3{
+    font-size: 22px;
+    margin-left: 5%;
+}
+
+.cont14{
+    display: flex;
+    justify-content: space-around;
+}
+
+.cont15{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    width: 300px;
+    height: 500px;
+    border-radius: 1em;
+}
+
+.img5{
+    margin-left: 16%;
+    margin-top: 2.5%;
+}
+
+.text4{
+    font-weight: bold;
+    text-align: center;
+    font-size: 18px;
+}
+
+.text5{
+    margin-left: 5%;
+}
+
+.cont13{
+    display: flex;
+    justify-content: space-around;
+}
